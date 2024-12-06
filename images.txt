@@ -1,8 +1,29 @@
+busybox
+alpine
+ubuntu
+debian
+rockylinux
+gitlab/gitlab-ce
+
 nginx
 redis
 postgres
 mongo
 mysql
+grafana/grafana
+pytorch/pytorch
+tensorflow/tensorflow
+getsentry/sentry
+itzg/elasticsearch
+kong
+elasticsearch
+zookeeper
+logstash
+kibana
+
+bitnami/kibana
+bitnami/elasticsearch
+bitnami/kafka
 
 # Flask
 tiangolo/uwsgi-nginx-flask:python3.8
