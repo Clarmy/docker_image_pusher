@@ -1,3 +1,8 @@
+bitnami/elasticsearch
+bitnami/logstash
+bitnami/kibana
+bitnami/kafka
+
 busybox
 alpine
 ubuntu
@@ -16,12 +21,7 @@ getsentry/sentry
 itzg/elasticsearch
 kong
 zookeeper
-logstash
 kibana
-
-bitnami/kibana
-bitnami/elasticsearch
-bitnami/kafka
 
 # Flask
 tiangolo/uwsgi-nginx-flask:python3.8
