@@ -1,6 +1,18 @@
-bitnami/elasticsearch
-bitnami/logstash
-bitnami/kibana
+# kibana
+kibana:8.16.1
+kibana:8.15.5
+kibana:7.17.26
+
+# elasticsearch
+elasticsearch:8.16.1
+elasticsearch:8.15.5
+elasticsearch:7.17.26
+
+# logstash
+logstash:8.16.1
+logstash:8.15.5
+logstash:7.17.26
+
 bitnami/kafka
 
 busybox
@@ -15,13 +27,10 @@ postgres
 mongo
 mysql
 grafana/grafana
-pytorch/pytorch
-tensorflow/tensorflow
 getsentry/sentry
 itzg/elasticsearch
 kong
 zookeeper
-kibana
 
 # Flask
 tiangolo/uwsgi-nginx-flask:python3.8
