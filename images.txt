@@ -2,7 +2,6 @@ busybox
 alpine
 ubuntu
 debian
-rockylinux
 gitlab/gitlab-ce
 
 nginx
