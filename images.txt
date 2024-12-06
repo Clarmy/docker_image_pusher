@@ -1,6 +1,24 @@
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+redis
+postgres
+mongo
+mysql
+
+# Flask
+tiangolo/uwsgi-nginx-flask:python3.8
+tiangolo/uwsgi-nginx-flask:python3.9
+tiangolo/uwsgi-nginx-flask:python3.10
+tiangolo/uwsgi-nginx-flask:python3.11
+tiangolo/uwsgi-nginx-flask:python3.12
+
+# Python
+python:3.9-bullseye
+python:3.10-bullseye
+python:3.11-bullseye
+python:3.12-bullseye
+
+# node
+node:16-alpine
+
+# ruby
+ruby:3.2.0
