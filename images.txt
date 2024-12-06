@@ -15,7 +15,6 @@ tensorflow/tensorflow
 getsentry/sentry
 itzg/elasticsearch
 kong
-elasticsearch
 zookeeper
 logstash
 kibana
