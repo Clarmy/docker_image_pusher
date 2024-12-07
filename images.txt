@@ -1,3 +1,4 @@
+getsentry/relay
 debian:bullseye-slim
 
 # kibana
