@@ -1,3 +1,5 @@
+debian:bullseye-slim
+
 # kibana
 kibana:8.16.1
 kibana:8.15.5
@@ -28,7 +30,6 @@ mongo
 mysql
 grafana/grafana
 getsentry/sentry
-itzg/elasticsearch
 kong
 zookeeper
 
